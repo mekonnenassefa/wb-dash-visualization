@@ -1,0 +1,1000 @@
+ 1004  git clone https://github.com/gyunggyung/PyTorch
+ 1005  cd ..
+ 1006  DeepLearning/
+ 1007  git clone https://github.com/fchollet/deep-learning-with-python-notebooks
+ 1008  shutdown -h now
+ 1009  conda --env
+ 1010  conda info --env
+ 1011  $ pip install evidently
+ 1012  pip install evidently
+ 1013  jupyter nbextension install --sys-prefix --symlink --overwrite --py evidently
+ 1014  jupyter nbextension enable evidently --py --sys-prefix
+ 1015  cd github/ML/class
+ 1016  wget https://github.com/smazhuvan/bank-loan-personalization
+ 1017  git clone  https://github.com/smazhuvan/bank-loan-personalization
+ 1018  git -clone  https://github.com/smazhuvan/bank-loan-personalization
+ 1019  git clone  https://github.com/smazhuvan/bank-loan-personalization
+ 1020  sudo apt-get update
+ 1021  sudo apt-get upgrade
+ 1022  jupyter-lab
+ 1023  reboot
+ 1024  sudo apt-get update
+ 1025  shutdown -h now
+ 1026  jupyter-lab
+ 1027  reboot
+ 1028  jupyter-lab
+ 1029  cp -u github/ /media/mack/Mack\ Backup/Document/
+ 1030  cp -urv github/ /media/mack/Mack\ Backup/Document/
+ 1031  reboot
+ 1032  kill 2350
+ 1033  kill 3422
+ 1034  kill 5445
+ 1035  kill 2353
+ 1036  kill 2583
+ 1037  kill 3009
+ 1038  top
+ 1039  kill 2198
+ 1040  pip install jupyterlab_latex
+ 1041  jupyter serverextension enable --sys-prefix jupyterlab_latex
+ 1042  jupyter labextension install @jupyterlab/latex
+ 1043  top
+ 1044  cd Downloads/
+ 1045  sudo dpkg -i zoom_amd64.deb 
+ 1046  sudo apt-get update
+ 1047  sudo apt remove zoom
+ 1048  sudo apt-get update
+ 1049  dpkg -i zoom_amd64.deb 
+ 1050  sudo dpkg -i zoom_amd64.deb 
+ 1051  sudo apt-get update
+ 1052  sudo dpkg -i zoom_amd64.deb 
+ 1053  sudo apt install ./zoom_amd64.deb
+ 1054  apt --fix-broken install
+ 1055  sudo apt install ./zoom_amd64.deb
+ 1056  reboot
+ 1057  jupyter-lab
+ 1058  reboot
+ 1059  jupyter-lab
+ 1060  reboot
+ 1061  exit
+ 1062  ls
+ 1063  cd github/ML/
+ 1064  jupyter-lab
+ 1065  cd
+ 1066  jupyter-lab
+ 1067  cd github/ML/class/
+ 1068  git clone https://github.com/uday553/GreatLakes
+ 1069  git clone https://github.com/DPrakashMewari/Capaign_for_Selling_Personal_Loan
+ 1070  git clone https://github.com/ParidhiGola/Identifying-potential-customers-for-loans
+ 1071  top
+ 1072  git --version
+ 1073  git config --list
+ 1074  vi .gitconfig 
+ 1075  cd github/
+ 1076  cd
+ 1077  git ftech
+ 1078  git fech
+ 1079  cd github/ML/class/AppliedML/
+ 1080  cd ..
+ 1081  git -C repo pull || git clone https://server/repo repo
+ 1082  git -C repo pull || git clone https://github.com/AAUCDSC/AppliedML
+ 1083  git -C pull || git clone https://github.com/AAUCDSC/AppliedML
+ 1084  git -C AppliedML pull || git clone https://github.com/AAUCDSC/AppliedML
+ 1085  ls
+ 1086  reboot
+ 1087  sudo apt-get update
+ 1088  sudo apt-get upgrade
+ 1089  conda -info
+ 1090  conda list --env
+ 1091  conda -c --env
+ 1092  conda list -env
+ 1093  conda list -envs
+ 1094  conda list --envs
+ 1095  conda activate torch
+ 1096  conda info --envs
+ 1097  conda activate pytorch
+ 1098  jupyter-lab
+ 1099  conda info -envs
+ 1100  conda info --envs
+ 1101  conda activate pytorch
+ 1102  jupyter-lab
+ 1103  deactivate pytorch
+ 1104  conda deactivate pytorch
+ 1105  conda deactivate
+ 1106  shutdown
+ 1107  shitdown -h now
+ 1108  shutdown -h now
+ 1109  conda activate pytorch
+ 1110  pip install seaborn
+ 1111  jupyter-lab
+ 1112  reboot
+ 1113  sudo apt update
+ 1114  sudo apt -y upgrade
+ 1115  sudo apt upgrade
+ 1116  sudo apt update
+ 1117  apt list --upgradable
+ 1118  sudo apt upgrade
+ 1119  sudo dpkg --configure -a
+ 1120  sudo apt upgrade
+ 1121  sudo apt -y install r-base
+ 1122  cd Downloads/
+ 1123  wget -c https://download1.rstudio.org/desktop/bionic/amd64/rstudio-1.4.1717-amd64.deb
+ 1124  cd Downloads/
+ 1125  wget -c https://download1.rstudio.org/desktop/bionic/amd64/rstudio-1.4.1717-amd64.deb
+ 1126  cd
+ 1127  cd Downloads/
+ 1128  sudo apt install r
+ 1129  sudo apt install ./rstudio-1.4.1717-amd64.deb
+ 1130  jupyter-lab
+ 1131  conda activate pytorch
+ 1132  jupyter-lab
+ 1133  cd
+ 1134  jupyter-lab
+ 1135  ls
+ 1136  cd github/ML/class
+ 1137  git -C AppliedML pull || git clone https://github.com/AAUCDSC/AppliedML
+ 1138  reboot
+ 1139  cd github/
+ 1140  mkdir CODATA
+ 1141  cd CODATA/
+ 1142  mkdir rclass
+ 1143  cd rclass
+ 1144  cd
+ 1145  cd Downloads/
+ 1146  mv rstudio-ide.pdf ~/github/CODATA/rclass/resources/
+ 1147  mv data-transformation.pdf ~/github/CODATA/rclass/resources/
+ 1148  cd resources/
+ 1149  ls
+ 1150  xdg-open rstudio-ide.pdf 
+ 1151  cd ..
+ 1152  cd challenges/
+ 1153  touch challenge_{01..30}.R
+ 1154  ls
+ 1155  reboot
+ 1156  jupyter-lab
+ 1157  git pull Assignment3/Assignment3.ipynb
+ 1158  git pull https://github.com/AAUCDSC/AppliedML/blob/480d489fc926894baf5ae7692c03ba50d3f7f0f1/Assignment3/Assignment3.ipynb
+ 1159  reboot
+ 1160  ls
+ 1161  ping google.com
+ 1162  reboot
+ 1163  rstudio
+ 1164  reboot
+ 1165  ls -lR
+ 1166  rstudio
+ 1167  reboot
+ 1168  rstudio
+ 1169  reboot
+ 1170  sudo apt-get update
+ 1171  jupyter-lab
+ 1172  reboot
+ 1173  cd github/ML/
+ 1174  ls
+ 1175  git pull https://github.com/Yorko/mlcourse.ai
+ 1176  reboot
+ 1177  conda activate pytorch
+ 1178  jupyter-lab
+ 1179  cd github/
+ 1180  ls
+ 1181  cd ML/
+ 1182  ls
+ 1183  cd..
+ 1184  cd ..
+ 1185  cd DeepLearning/
+ 1186  git pull https://github.com/bat67/pytorch-tutorials-examples-and-books
+ 1187  ~/.git
+ 1188  cd ~/.git
+ 1189  ls
+ 1190  ls hooks/
+ 1191  cd --
+ 1192  cd github/DeepLearning/
+ 1193  ls -h
+ 1194  git fetch https://github.com/bat67/pytorch-tutorials-examples-and-books
+ 1195  git merge https://github.com/bat67/pytorch-tutorials-examples-and-books
+ 1196  git fetch *  https://github.com/bat67/pytorch-tutorials-examples-and-books
+ 1197  gittch https://github.com/bat67/pytorch-tutorials-examples-and-books *
+ 1198  git clone https://github.com/bat67/pytorch-tutorials-examples-and-books
+ 1199  df
+ 1200  du
+ 1201  sudo du -h --max-depth=1
+ 1202  sudo du -sh /var/cache/apt
+ 1203  journalctl --disk-usage
+ 1204  du -h /var/lib/snapd/snaps
+ 1205  du -sh ~/.cache/thumbnails
+ 1206  sudo apt-get autoremove
+ 1207  df 
+ 1208  du -h
+ 1209  df -h
+ 1210  cp -urp github/ /media/mack/Mack\ Backup/Document/
+ 1211  cp -urp DataScience/ /media/mack/Mack\ Backup/Document/
+ 1212  jupyter-lab
+ 1213  reboot
+ 1214  jupyter-lab
+ 1215  reboot
+ 1216  sudo apt-get update
+ 1217  sudo apt-get upgrade
+ 1218  shutdown -h now
+ 1219  reboot
+ 1220  sudo apt update
+ 1221  sudo apt upgrade
+ 1222  sudo apt-get install curl
+ 1223  sudo apt install libcurl4-openssl-dev
+ 1224  reboot
+ 1225  cd /media/mack/18dcb536-1447-4869-a70c-6cc89d1028a0/
+ 1226  ls
+ 1227  cd ..
+ 1228  ls ZTEMODEM1
+ 1229  ls ZTEMODEM
+ 1230  ls -lr
+ 1231  cd
+ 1232  ls -lr
+ 1233  ls 
+ 1234  reboot
+ 1235  udo apt-get update
+ 1236  sudo apt-get update
+ 1237  sudo apt-get upgrade
+ 1238  sudo apt-get install octave
+ 1239  sudo apt-get upgrade octave
+ 1240  sudo apt-get update
+ 1241  reboot
+ 1242  cd
+ 1243  cp -upv github /media/mack/Mack\ Backup/Document/
+ 1244  cp -urpv github /media/mack/Mack\ Backup/Document/
+ 1245  cp -urpv DataScience /media/mack/Mack\ Backup/Document/
+ 1246  cd DataScience/cdsc-class/Books/Optimization/
+ 1247  ls
+ 1248  ls -d
+ 1249  mkdir harvard
+ 1250  cd har
+ 1251  cd harvard/
+ 1252  wget https://courses.seas.harvard.edu/courses/am205/slides/am205_unit4.pdf
+ 1253  cat note.txt
+ 1254  touch link.txt
+ 1255  cat link.txt 
+ 1256  vi link.txt 
+ 1257  cat link.txt 
+ 1258  cd
+ 1259  cp -urp github/ /media/mack/Mack\ Backup/Document/
+ 1260  cd
+ 1261  cp -urp DataScience /media/mack/Mack\ Backup/Document/
+ 1262  cp -urvp DataScience /media/mack/Mack\ Backup/Document/
+ 1263  sudo apt-get update
+ 1264  sudo apt-get upgrade
+ 1265  cd github/
+ 1266  mkdir matlab
+ 1267  cd matlab/
+ 1268  git -clone https://web.blogcopas.eu.org/host-https-github.com/definite2/Numerical-Methods
+ 1269  git clone https://web.blogcopas.eu.org/host-https-github.com/definite2/Numerical-Methods
+ 1270  ls
+ 1271  rm -r Numerical-Methods/
+ 1272  git clone https://web.blogcopas.eu.org/host-https-github.com/definite2/Numerical-Methods
+ 1273  ls Numerical-Methods/
+ 1274  git pull https://web.blogcopas.eu.org/host-https-github.com/definite2/Numerical-Methods
+ 1275  git pull https://github.com/akshaybahadur21/GradientDescentExample
+ 1276  git clone https://github.com/akshaybahadur21/GradientDescentExample
+ 1277  git clone https://github.com/fan2fan/matlab--steepest-descent-method
+ 1278  git clone https://github.com/kanybekasanbekov/Optimization-Algorithms
+ 1279  git clone https://github.com/adisen99/NewtonRaphson
+ 1280  git clone https://github.com/hhongjiang/Steepest-descent-algorithm-Matlab-
+ 1281  reboot
+ 1282  shutdown -h now
+ 1283  sudo apt-get update
+ 1284  cd github/optimization/
+ 1285  ls
+ 1286  cd ..
+ 1287  ls
+ 1288  ls matlab/
+ 1289  cd matlab/
+ 1290  ls
+ 1291  reboot
+ 1292  cd github/matlab/
+ 1293  wget http://people.whitman.edu/~hundledr/courses/M467/MultiNewton.pdf
+ 1294  wget http://www.ohiouniversityfaculty.com/youngt/IntNumMeth/lecture3.pdf
+ 1295  wget https://jmahaffy.sdsu.edu/courses/f16/math541/beamer/newtonXD.pdf
+ 1296  cd
+ 1297  cd github/matlab/
+ 1298  jupyter-lab
+ 1299  cd
+ 1300  cd github/
+ 1301  jupyter-lab
+ 1302  cd github/
+ 1303  jupyter-lab
+ 1304  reboot
+ 1305  cd github/
+ 1306  jupyter-lab
+ 1307  reboot
+ 1308  du -T
+ 1309  du -
+ 1310  du 
+ 1311  df
+ 1312  du -a
+ 1313  du -a /dir/ | sort -n -r | head -n 20
+ 1314  du -a | sort -n -r | head -n 20
+ 1315  rm Downloads/debian-edu-10.8.0-amd64-BD-1.iso 
+ 1316  du -ah | sort -n -r | head -n 20
+ 1317  cd DataScience/cdsc-class/3rd\ sem/modeling/
+ 1318  wget https://archive.org/stream/cover_201907/Mathematical%20Modelling%3A%20A%20Tool%20for%20Problem%20Solving_djvu.txt
+ 1319  df
+ 1320  df -h
+ 1321  reboot
+ 1322  jupyter-lab
+ 1323  sudo apt-get update
+ 1324  sudo apt-get upgrade
+ 1325  cd github/bigdata/
+ 1326  cd assignment/
+ 1327  wget https://openknowledge.worldbank.org/bitstream/handle/10986/26447/WDI-2017-web.pdf
+ 1328  wget -u https://openknowledge.worldbank.org/bitstream/handle/10986/26447/WDI-2017-web.pdf
+ 1329  wget -c https://openknowledge.worldbank.org/bitstream/handle/10986/26447/WDI-2017-web.pdf
+ 1330  cd github/
+ 1331  mkdir bigdata
+ 1332  cd bigdata/
+ 1333  git clone https://github.com/gschivley/Visualization-tutorial
+ 1334  cd
+ 1335  pip python-lightning
+ 1336  pip lightning-python
+ 1337  pip install lightning-python
+ 1338  pip install pygal
+ 1339  pip install wbgapi
+ 1340  pip install plotly==5.4.0
+ 1341  pip install plotly==5.4.*
+ 1342  sudo reboot
+ 1343  reboot
+ 1344  cd github/ML/
+ 1345  git clone https://github.com/palVikram/Machine-Learning-using-Python
+ 1346  sudo apt-get update
+ 1347  sudo apt-get upgrade
+ 1348  sudo snap install --classic heroku
+ 1349  git --config
+ 1350  git -config
+ 1351  heroku --version
+ 1352  heroku
+ 1353  heroku --version
+ 1354  sudo snap install --classic heroku
+ 1355  snap help refresh
+ 1356  heroku login
+ 1357  sudo apt-get update
+ 1358  heroku --version
+ 1359  sudo apt-get upgrade
+ 1360  git config --list --show-origin
+ 1361  conda install geopandas
+ 1362  shutdown -h now
+ 1363  jupyter-lab
+ 1364  cd github/
+ 1365  jupyter-lab
+ 1366  jupyter lab
+ 1367  reboot
+ 1368  sudo apt-get upfate
+ 1369  sudo apt-get update
+ 1370  pip install plotly==5.5.0
+ 1371  pip install dash
+ 1372  pip install "jupyterlab>=3" "ipywidgets>=7.6"
+ 1373  pip install jupyter-dash
+ 1374  pip install plotly-geo>=1.0.0
+ 1375  pip install plotly-geo=1.0.0
+ 1376  pip install plotly-geo==1.0.0
+ 1377  pip install plotly-geo>=1.0.0
+ 1378  pip install chart-studio==1.1.0
+ 1379  cp -uvrp DataScience/ /media/mack/Mack\ Backup/Document/
+ 1380  cd github/bigdata/
+ 1381  git clone https://github.com/PacktPublishing/Interactive-Dashboards-and-Data-Apps-with-Plotly-and-Dash
+ 1382  sudo apt-get update
+ 1383  sudo apt-get upgrade
+ 1384  conda update conda
+ 1385  cd
+ 1386  cd .ssh
+ 1387  vi id_rsa
+ 1388  cd
+ 1389  cd Des
+ 1390  cd Desktop/
+ 1391  cd
+ 1392  cd .ssh
+ 1393  vi id_rsa_hadoop
+ 1394  chmod 600 id_rsa_hadoop 
+ 1395  cd github/
+ 1396  jupyter-lab
+ 1397  cd .ssh
+ 1398  ssh hirwuser150430@54.85.143.224
+ 1399  vi id_rsa
+ 1400  ssh hirwuser150430@54.85.143.224
+ 1401  vi id_rsa
+ 1402  chmod 600 id_rsa
+ 1403  :w
+ 1404  ssh hirwuser150430@54.85.143.224
+ 1405  :cd
+ 1406  cd
+ 1407  ssh hirwuser150430@54.85.143.224
+ 1408  reboot
+ 1409  sudo apt-get update
+ 1410  cd github/
+ 1411  mkdir shell
+ 1412  pwd
+ 1413  ls -F
+ 1414  ls -help
+ 1415  ls --help
+ 1416  man ls
+ 1417  ls -j
+ 1418  ls -l
+ 1419  ls -lh
+ 1420  ls -t
+ 1421  ls -r
+ 1422  ls -tr
+ 1423  ls -F -a
+ 1424  ./
+ 1425  cd -
+ 1426  cd ..
+ 1427  cd -
+ 1428  cd github/shell/
+ 1429  ls
+ 1430  reboot
+ 1431  cd
+ 1432  wc -l * | head -n 3 | sort -n
+ 1433  wc -l *.* | head -n 3 | sort -n
+ 1434  wc -l *.* | sort -n | head -n 3
+ 1435  echo {a..z}
+ 1436  echo {a0..z0}
+ 1437  echo {a..z}
+ 1438  cd github/shell/
+ 1439  vi animal.txt
+ 1440  cat animal.txt 
+ 1441  cat animal.txt | head -n 3 | tail -n 3 | sort -r > fanimal.txt
+ 1442  cat fanimal.txt 
+ 1443  cat animal.txt | head -n 5 | tail -n 3 | sort -r > fanimal.txt
+ 1444  cat fanimal.txt 
+ 1445  cut -d, -f 2 animal.txt | sort | uniq
+ 1446  cut -d, -f 2 animal.txt | sort | uniq -c
+ 1447  cut -d, -f 2 animal.txt | sort | uniq -c | sort -n
+ 1448  cut -d, -f 2 animal.txt | sort | uniq -c | sort -r
+ 1449  head -n 3 animal.txt data1.txt 
+ 1450  for i in animal.txt data1.txt ; do   head -n 2 $i | tail -n 1; done
+ 1451  for i in [0..9]; do    echo $i ** 2; done
+ 1452  for x  in [0..9]; do    echo $x**2; done
+ 1453  for x  in [0..9]; do    echo $x * 2; done
+ 1454  for y  in [0..9]; do    echo $y * 2; done
+ 1455  for y  in {0..9}; do    echo $y * 2; done
+ 1456  ls
+ 1457  for y  in {0..9}; do    echo $y; done
+ 1458  for y  in {0..9}; do    echo $y+2; done
+ 1459  for y  in {0..9}; do    echo $y*$y; done
+ 1460  for y  in {0..9}; do    ls $y; done
+ 1461  for y  in {0..9}; do    echo $y; done
+ 1462  mkdir {0..9}test
+ 1463  ls
+ 1464  wc -c data2.txt 
+ 1465  wc -l data2.txt 
+ 1466  -h
+ 1467  history 
+ 1468  less data1.txt
+ 1469  touch 1{0..9}text.txt
+ 1470  ls -f
+ 1471  for text in 1*text.txt; do echo $text; done
+ 1472  f[Aor text in 1*text.txt; do echo $text; bash mybash.sh $text test-$text; done
+ 1473  !
+ 1474  ! 3
+ 1475  for x in a b c; do    for y in 1 2 3; do        mkdir $x-$y; done; done
+ 1476  ls -F
+ 1477  rm -r *-*
+ 1478  ls
+ 1479  rm -r *test
+ 1480  ls
+ 1481  echo $((10+5))
+ 1482  echo $(10+5)
+ 1483  for i in {0..9}; do echo $(($i**2)); done
+ 1484  for i in {0..9}; do echo $i*$i= $(($i**2)); done
+ 1485  for i in {0..9}; do echo $i*$i = $(($i**2)); done
+ 1486  cd github/shell/
+ 1487  cd -
+ 1488  cd github/shell/
+ 1489  cd 
+ 1490  cd github/shell/
+ 1491  cd ../..
+ 1492  mkdir github/shell/bash
+ 1493  mkdir github/shell/ bash
+ 1494  cd github/shell/
+ 1495  cd
+ 1496  cd github/shell/
+ 1497  mkdir bash
+ 1498  cd bash
+ 1499  cd ../..
+ 1500  cd shell/bash/
+ 1501  cd ..
+ 1502  ls -rF
+ 1503  /
+ 1504  ls -rF/
+ 1505  ls -rF /
+ 1506  touch data.txt
+ 1507  ls -l
+ 1508  PS=$
+ 1509  PS0=$
+ 1510  PS1=$
+ 1511  pwd
+ 1512  PS1="\w> "
+ 1513  vi script.sh
+ 1514  bash script.sh 
+ 1515  fg
+ 1516  bash script.sh 
+ 1517  fg
+ 1518  bash script.sh 
+ 1519  fg
+ 1520  bash script.sh 
+ 1521  fg
+ 1522  bash script.sh 
+ 1523  ls
+ 1524  rm -i data.txt 
+ 1525  fg
+ 1526  bash script.sh 
+ 1527  fg
+ 1528  bash script.sh 
+ 1529  fg
+ 1530  bash script.sh
+ 1531  fg
+ 1532  bash script.sh
+ 1533  fg
+ 1534  bash script.sh
+ 1535  fg
+ 1536  bash script.sh
+ 1537  fg
+ 1538  bash script.sh
+ 1539  fg
+ 1540  bash script.sh
+ 1541  fg
+ 1542  bash script.sh
+ 1543  cd github/shell/
+ 1544  vi script.sh 
+ 1545  wc script.sh 
+ 1546  wc -h script.sh 
+ 1547  wc -l 
+ 1548  wc -l script.sh 
+ 1549  wc -w script.sh 
+ 1550  wc -c script.sh 
+ 1551  echo hello > data1.txt
+ 1552  cat data1.txt 
+ 1553  echo hello >> data2.txt
+ 1554  cat data2.txt 
+ 1555  echo hello >> data2.txt
+ 1556  cat data2.txt 
+ 1557  fg
+ 1558  head -n 2 data2.txt 
+ 1559  head -n data2.txt 
+ 1560  head -n data2.txt | head -n 1
+ 1561  head -n 2 data2.txt | head -n 1
+ 1562  head -n 3 data2.txt | head -n 1
+ 1563  head -n 4  data2.txt | head -n 1
+ 1564  head -n 4  data2.txt | head -n 5
+ 1565  head -n 4  data2.txt | head -n 4
+ 1566  head -n 
+ 1567  sort -n data2.txt | head -n 1
+ 1568  vi data1.txt 
+ 1569  sort -n data1.txt | head -n 1
+ 1570  PS=1
+ 1571  PS!=1
+ 1572  PS1="\w> "
+ 1573  fg
+ 1574  bash middle.sh animal.txt 5 2
+ 1575  bash middle.sh animal.txt 5 5
+ 1576  fg
+ 1577  cat data1.txt 
+ 1578  bash middle.sh data1.txt 5 4
+ 1579  fg
+ 1580  cut -d, f 1 animal.txt | sort -r  > banimal.txt
+ 1581  cut -d, -f 1 animal.txt | sort -r  > banimal.txt
+ 1582  cat banimal.txt 
+ 1583  cat banimal.txt | -uniq
+ 1584  cat banimal.txt | ls -uniq
+ 1585  cat banimal.txt  -uniq
+ 1586  cat banimal.txt uniq
+ 1587  cat banimal.txt | uniq
+ 1588  cat banimal.txt | uniq | sort
+ 1589  cat banimal.txt | uniq | sort -r
+ 1590  cat banimal.txt | uniq | sort -t
+ 1591  history | tail -n 30 > redobash.sh
+ 1592  less redobash.sh 
+ 1593  reboot
+ 1594  cd github/bash-scripts/
+ 1595  ls
+ 1596  cd 100-shell-script-examples/
+ 1597  ls
+ 1598  cd ..
+ 1599  cd shell/
+ 1600  ls
+ 1601  head -n data1.txt data2.txt animal.txt 
+ 1602  head -n 5 data1.txt data2.txt animal.txt 
+ 1603  for i in *.txt; do head -n 5 $i; done
+ 1604  for i in *.txt; do head -n 3 | tail -n 1 $i; done
+ 1605  for i in *.txt; do head -n 2 $i | tail -n 1; done
+ 1606  for i in {0..9}; do echo $i; done
+ 1607  for i in *.txt; do cp $i $1.dat; done
+ 1608  ls
+ 1609  ls *.dat
+ 1610  for i in *.txt; do cp -iv $i $i.dat; done
+ 1611  ls
+ 1612  ls *.sh
+ 1613  vi redobash.sh 
+ 1614  history | tail -n 5
+ 1615  fg
+ 1616  bash middle.sh dat
+ 1617  ls
+ 1618  cut -d, -f 2 animal.txt | sort | uniq > canimal.txt
+ 1619  cat canimal.txt 
+ 1620  fg
+ 1621  bash middle.sh animal.txt 
+ 1622  fg
+ 1623  cat animal.txt 
+ 1624  fg
+ 1625  bash unique.sh 
+ 1626  bash unique.sh animal.txt 
+ 1627  echo *.*
+ 1628  echo $@.txt
+ 1629  cat
+ 1630  fg
+ 1631  cat haiku.txt 
+ 1632  grep not haiku.txt 
+ 1633  grep Tao haiku.txt 
+ 1634  grep -n Tao haiku.txt 
+ 1635  grep -w Tao haiku.txt 
+ 1636  grep -wn Tao haiku.txt 
+ 1637  grep -wl Tao haiku.txt 
+ 1638  grep -l Tao haiku.txt 
+ 1639  grep -n Tao haiku.txt 
+ 1640  grep -n "it" haiku.txt 
+ 1641  grep -nw "it" haiku.txt 
+ 1642  grep -nwv "it" haiku.txt 
+ 1643  grep -nw -v "it" haiku.txt 
+ 1644  grep -n -v "it" haiku.txt 
+ 1645  grep -vwn "the" haiku.txt 
+ 1646  grep -v "the" haiku.txt 
+ 1647  grep -vwn "the" haiku.txt 
+ 1648  grep -r Yesterday
+ 1649  grep -r animal
+ 1650  grep -r rabbit
+ 1651  grep "of" haiku.txt 
+ 1652  grep -E haiku.txt 
+ 1653  grep -E "of" haiku.txt 
+ 1654  grep -i "of" haiku.txt 
+ 1655  grep -il "of" haiku.txt 
+ 1656  grep -in "of" haiku.txt 
+ 1657  grep -E "^.o" haiku.txt 
+ 1658  grep -E "^..o" haiku.txt 
+ 1659  grep -E "^..u" haiku.txt 
+ 1660  fg
+ 1661  bash count.sh danimal.txt .
+ 1662  cat danimal.txt
+ 1663  bash -x count.sh danimal.txt .
+ 1664  g
+ 1665  fg
+ 1666  bash -x count.sh danimal.txt .
+ 1667  bash count.sh danimal.txt .
+ 1668  cat danimal.txt
+ 1669  fg
+ 1670  bash count.sh danimal.txt .
+ 1671  cat danimal.txt.dat 
+ 1672  cat danimal.txt.txt 
+ 1673  fg
+ 1674  grep -w danimal.txt | cut -d: -f 2 | cut -d, -f 1,3 > cut.txt
+ 1675  grep -w deer danimal.txt | cut -d, -f 2 | cut -d, -f 1,3 > cut.txt
+ 1676  cat cut.txt 
+ 1677  grep -w deer danimal.txt | cut -d, -f 2 | cut -d, -f 1,2 > cut.txt
+ 1678  cat cut.txt 
+ 1679  grep -w deer danimal.txt | cut -d, -f 2  > cut.txt
+ 1680  cat cut.txt 
+ 1681  grep -w deer danimal.txt | cut -d: -f 2 | cut -d, -f 1,2 > cut.txt
+ 1682  cat cut.txt 
+ 1683  grep -w deer danimal.txt | cut -d: -f 2 | cut -d, -f 1,3 > cut.txt
+ 1684  cat cut.txt 
+ 1685  grep -c "it" haiku.txt 
+ 1686  grep -co "it" haiku.txt 
+ 1687  grep -cow "it" haiku.txt 
+ 1688  find .
+ 1689  find . -type d
+ 1690  find . -type f
+ 1691  find . -name *.txt
+ 1692  find . -name "*.txt"
+ 1693  wc -l $(find . -name "*.txt")
+ 1694  wc -l | find . -name "*.txt"
+ 1695  grep "of" $(find . -name "*.txt"
+ 1696  grep "of" $(find . -name "*.txt"|)
+ 1697  grep "of" $(find . -name "*.txt")
+ 1698  grep "f" $(find . -name "*.txt")
+ 1699  find data -name "?a*.txt"
+ 1700  find . -name "?a*.txt"
+ 1701  find . -name "?a*.txt" | grep -v "o"
+ 1702  grep -v "o" $(find . -name "?a*.txt")
+ 1703  grep -vc "of" $(find . -name "?a*.txt")
+ 1704  cd github/shell/
+ 1705  grep -vc "of" $(find . -name "?a*.txt")
+ 1706  wc -l $(find . -name "*.txt") | sort -n
+ 1707  wc -l $(find . -name "*.txt") | sort -r
+ 1708  wc -l $(find . -name "*.txt") | sort -n
+ 1709  grep -vc "of" $(find . -name "?a*.txt") | sort -n
+ 1710  grep -v "of" $(find . -name "?a*.txt") | sort -n
+ 1711  grep c "of" $(find . -name "?a*.txt") | sort -n
+ 1712  grep -c "of" $(find . -name "?a*.txt") | sort -n
+ 1713  grep -w deer danimal.txt | cut -d: -f 2 | cut -d, -f 1,2 > cut.txt
+ 1714  cat danimal.txt
+ 1715  cat animal.txt 
+ 1716  cat animal.txt | cut -d, 2 | uniq -d
+ 1717  cat animal.txt | cut -d, -f 2 | uniq -d
+ 1718  cat animal.txt | cut -d, -f 2 | uniq -d > eanimal.txt
+ 1719  cat eanimal.txt 
+ 1720  cat animal.txt 
+ 1721  cat animal.txt | cut -d, -f 2 | uniq > eanimal.txt
+ 1722  cat eanimal.txt 
+ 1723  cat animal.txt | cut -d, -f 2 | sort | uniq > eanimal.txt
+ 1724  cat eanimal.txt 
+ 1725  reboot
+ 1726  cd github/
+ 1727  ls
+ 1728  ls optimization/
+ 1729  ls
+ 1730  ls optimization/
+ 1731  cd optimization/
+ 1732  cd
+ 1733  grep . search
+ 1734  cd github/Numerical-Methods/
+ 1735  ls
+ 1736  grep .. search
+ 1737  ls nonlinear-equations/
+ 1738  cd..
+ 1739  cd ..
+ 1740  ls
+ 1741  mv -r Numerical-Methods/ fortran-class/
+ 1742  mv  Numerical-Methods/ fortran-class/
+ 1743  ls AnatomyOfMatplotlib/
+ 1744  rm -R AnatomyOfMatplotlib/
+ 1745  sudo rm -R AnatomyOfMatplotlib/
+ 1746  cd optimization/
+ 1747  git clone https://github.com/smrfeld/line_search_tutorial 
+ 1748  git clone https://github.com/YEN-GitHub/NumericalOptimization_BasicAlgorithm
+ 1749  git clone https://github.com/qzhu2017/Numerical-Optimization
+ 1750  wegt -c https://faculty.ucmerced.edu/mcarreira-perpinan/teaching/EECS260/lecture-notes.pdf 
+ 1751  wegt  https://faculty.ucmerced.edu/mcarreira-perpinan/teaching/EECS260/lecture-notes.pdf 
+ 1752  wegt -c http://faculty.ucmerced.edu/mcarreira-perpinan/teaching/EECS260/lecture-notes.pdf 
+ 1753  wget -c http://faculty.ucmerced.edu/mcarreira-perpinan/teaching/EECS260/lecture-notes.pdf 
+ 1754  wget -c https://faculty.ucmerced.edu/mcarreira-perpinan/teaching/EECS260/lecture-notes.pdf 
+ 1755  wget --no-check-certificate https://faculty.ucmerced.edu/mcarreira-perpinan/teaching/EECS260/lecture-notes.pdf 
+ 1756  git clone https://github.com/indrag49/Numerical-Optimisation
+ 1757  wget -c https://egrcc.github.io/docs/math/numerical-optimization.pdf
+ 1758  git clone https://github.com/slgit/prog4comp_2
+ 1759  git clone https://github.com/qzhu2017/Numerical-Optimization
+ 1760  reboot
+ 1761  cd ..
+ 1762  jupyter-lab
+ 1763  cd github/optimization/
+ 1764  ls
+ 1765  wget http://www.bioinfo.org.cn/~wangchao/maa/Numerical_Optimization.pdf
+ 1766  reboot
+ 1767  cd github/optimization/
+ 1768  cd ..
+ 1769  jupyter-lab
+ 1770  sudo apt-get update
+ 1771  jupyter-lab
+ 1772  sudo apt-get update
+ 1773  conda env
+ 1774  conda --env
+ 1775  shutdown -h now
+ 1776  dash --version
+ 1777  dash -version
+ 1778  pip install dash-core-components==0.26.0
+ 1779  pip install dash-renderer==0.13.0
+ 1780  cd ..
+ 1781  pip install JupyterDash
+ 1782  pip install jupyter-dash
+ 1783  jupiter lab build
+ 1784  jupyter lab build
+ 1785  reboot
+ 1786  cd github/
+ 1787  ls
+ 1788  cd DeepLearning/
+ 1789  ls
+ 1790  cd ..
+ 1791  conda activate torch
+ 1792  conda activate pytorch
+ 1793  jupyter-lab\
+ 1794  jupyter-lab
+ 1795  copy -uvp DataScience /media/mack/Mack\ Backup/Document/
+ 1796  copy -uip DataScience /media/mack/Mack\ Backup/Document/
+ 1797  copy -u DataScience /media/mack/Mack\ Backup/Document/
+ 1798  hibernate
+ 1799  reboot
+ 1800  cd github/
+ 1801  conda list --env
+ 1802  conda info --envs
+ 1803  conda activate pytorch
+ 1804  jupyter-lab
+ 1805  sudo apt-get update
+ 1806  reboot
+ 1807  mv Downloads/deep-learning-from-scratch-python.zip github/DeepLearning/
+ 1808  cd github/DeepLearning/
+ 1809  ls
+ 1810  unzip deep-learning-from-scratch-python.zip 
+ 1811  ls
+ 1812  cd ..
+ 1813  jupyter-lab
+ 1814  cd github/
+ 1815  jupyter-lab
+ 1816  reboot
+ 1817  cd DeepLearning/
+ 1818  git clone https://github.com/FlorianMuellerklein/Machine-Learning
+ 1819  git clone https://github.com/eriklindernoren/ML-From-Scratch
+ 1820  git clone https://github.com/musikalkemist/DeepLearningForAudioWithPython
+ 1821  shtdown
+ 1822  shutdown
+ 1823  fg
+ 1824  gf
+ 1825  reboot
+ 1826  ls
+ 1827  conda install -c h2oai h2o
+ 1828  pip uninstall pyplot
+ 1829  pip uninstall dash
+ 1830  sudo pip install dash dash-renderer dash-html-components dash-core-components plotly
+ 1831  sudo -H pip install dash dash-renderer dash-html-components dash-core-components plotly
+ 1832  sudo -H pip install dash dash-renderer
+ 1833  sudo apt-get update
+ 1834  python3 --V
+ 1835  python3 --v
+ 1836  python3 --version\
+ 1837  python3
+ 1838  pip uninstall dash
+ 1839  pip uninstall pyplot
+ 1840  ping
+ 1841  ping google.com
+ 1842  ping 10.10.10.10
+ 1843  ping 1.1.1.1
+ 1844  conda activate plotly
+ 1845  pip3 install pandas
+ 1846  df
+ 1847  df -h
+ 1848  cd github/
+ 1849  jupyter-lab
+ 1850  conda create --name plotly
+ 1851  conda activate plotly
+ 1852  pip install jupyter-lab
+ 1853  pip install dash
+ 1854  conda update conda
+ 1855  pip pudate conda
+ 1856  pip
+ 1857  pip3 install dash
+ 1858  pip3 show dash
+ 1859  pip3 install dash-core-components dash-html-components
+ 1860  pip3 install flask-compress
+ 1861  pip3 show dash
+ 1862  pip3 install dash-html-components\ 
+ 1863  pip3 install dash-html-components\
+ 1864  pip3 install dash-html-components
+ 1865  pip3 install plotly
+ 1866  pip3 show plotly
+ 1867  pip3 install dash-renderer
+ 1868  pip3 install pip install jupyter-dash
+ 1869  pip3 show jupyter-lab
+ 1870  pip3 show jupyter
+ 1871  pip3 install jupyter-lab
+ 1872  pip3 install pip install jupyter-dash
+ 1873  pip3 install jupyter-dash
+ 1874  jupyter labextension install jupyterlab-plotly
+ 1875  pip show jupyter
+ 1876  pip show jupyter-lab
+ 1877  jupyter-lab
+ 1878  pip3 install jupyterlab
+ 1879  jupyter labextension list
+ 1880  jupyter lab build
+ 1881  jupyter lab build --dev-build=False --minimize=False
+ 1882  pip3 install nodejs
+ 1883  jupyter lab build 
+ 1884  pip install nodejs >=12.0.0 
+ 1885  pip3 install nodejs >=12.0.0 
+ 1886  pip3 install nodejs>=12.0.0 
+ 1887  jupyter-lab
+ 1888  reboot
+ 1889  sudo apt-get autoremove
+ 1890  cd
+ 1891  du -sh ~/.cache/thumbnails
+ 1892  du -h /var/lib/snapd/snaps
+ 1893  journalctl --disk-usage
+ 1894  df
+ 1895  df -h
+ 1896  du
+ 1897  du -h
+ 1898  sudo apt-get clean
+ 1899  find . -name ".DS_Store" -delete
+ 1900  sudo find . -name ".DS_Store" -delete
+ 1901  df -h
+ 1902  cd github/
+ 1903  du -hs * | sort -hr
+ 1904  cd
+ 1905  du -hs * | sort -hr
+ 1906  heroku --version
+ 1907  heroku login
+ 1908  conda activate pyplot
+ 1909  conda info --envs
+ 1910  conda info plotly
+ 1911  conda activate plotly
+ 1912  cd github/
+ 1913  jupyter-lab
+ 1914  exit
+ 1915  df
+ 1916  cp -uip github/ /media/mack/Mack\ Backup/Document/
+ 1917  cp -uir github/ /media/mack/Mack\ Backup/Document/
+ 1918  cp -uvr github/ /media/mack/Mack\ Backup/Document/
+ 1919  df
+ 1920  df -h
+ 1921  curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/etc/apt/trusted.gpg.d/githubcli-archive-keyring.gpg
+ 1922  echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/trusted.gpg.d/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+ 1923  sudo apt update
+ 1924  curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/etc/apt/trusted.gpg.d/githubcli-archive-keyring.gpg
+ 1925  sudo apt install gh
+ 1926  gh
+ 1927  cd github/bigdata/assignment/
+ 1928  gh repo clone mekonnenassefa/wb-dash-visualization
+ 1929  gh auth login
+ 1930  cd
+ 1931  cd .ssh/
+ 1932  ls
+ 1933  man id_rsa
+ 1934  man id_rsa.pub
+ 1935  cat id_rsa.pub
+ 1936  cd
+ 1937  ssh-keygen -t ed25519 -C "mack.rotaract@gmail.com"
+ 1938  eval "$(ssh-agent -s)"
+ 1939  ssh-add ~/.ssh/id_ed25519
+ 1940  cat ~/.ssh/id_ed25519.pub
+ 1941  ssh -T git@github.com
+ 1942  gh auth login
+ 1943  cd github/bigdata/assignment/
+ 1944  gh repo clone mekonnenassefa/wb-dash-visualization
+ 1945  gh auth login
+ 1946  gh issue status
+ 1947  cd
+ 1948  gh issue status
+ 1949  gh auth login
+ 1950  cd github/bigdata/assignment/
+ 1951  gh repo clone mekonnenassefa/wb-dash-visualization
+ 1952  cd wb-dash-visualization/
+ 1953  ls
+ 1954  ls -d
+ 1955  mkdir data
+ 1956  rm data 
+ 1957  mkdir data
+ 1958  gh pull
+ 1959  gh push
+ 1960  gh repo syng
+ 1961  gh repo sync
+ 1962  gh workflow list
+ 1963  gh repo view
+ 1964  gh repo edit
+ 1965  gh repo edit --enable-squash-merge
+ 1966  gh repo esync
+ 1967  gh repo sync
+ 1968  gh repo edit
+ 1969  gh repo edit --enable-auto-merge
+ 1970  gh repo edit --enable-rebase-merge
+ 1971  eval "$(gh completion -s bash)"
+ 1972  config
+ 1973  config -e
+ 1974  git checkout main
+ 1975  git push
+ 1976  git add -A
+ 1977  git config -e
+ 1978  git fetch upstream
+ 1979  git fetch wb-dash-visualization
+ 1980  git feth
+ 1981  git fetch
+ 1982  git merge
+ 1983  git push
+ 1984  git add
+ 1985  git add data/
+ 1986  git commit -m "world bank dataset"
+ 1987  git push
+ 1988  git repo view
+ 1989  gt repo view
+ 1990  gh repo view
+ 1991  git pull
+ 1992  cd ..
+ 1993  reboot
+ 1994  sudo apt-get update
+ 1995  cd github/bigdata/
+ 1996  gh auth login
+ 1997  cd assignment/wb-dash-visualization/
+ 1998  gh view status
+ 1999  gh repo status
+ 2000  gh repo list
+ 2001* gh repo edit 
+ 2002  history
+ 2003  history > history.txt
